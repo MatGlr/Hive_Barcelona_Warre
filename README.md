@@ -1,4 +1,4 @@
-Open Source Beehives - Barcelona Warré 2.3
+Open Source Beehives - Barcelona Warré 2.4
 =========
 
 # Project Overview
@@ -29,7 +29,7 @@ For partnership inquiries, please email:
 
 *hello@opensourcebeehives.net*
 
-# Warré 2.3 Introduction
+# Warré 2.4 Introduction
 
 The Barcelona Warré Top Bar 2.3 is designed to be produced using a CNC router. It can be made from a single sheet of wood of the standard dimensions 1220 x 2440. This is the fifth prototype of this design type and is currently being tested in Six countries and four continents around the world.
 
